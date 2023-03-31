@@ -1,4 +1,4 @@
-const CACHE_NAME = 'mdl-template-portfolio';
+const CACHE_NAME = 'first-app';
 const urlsToCache = [
   '/',
   '/index.html',
